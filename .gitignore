@@ -1,0 +1,4 @@
+nginx/key.pem
+nginx/cert.pem
+portainer/portainer-data
+redis-ui/settings
